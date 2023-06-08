@@ -1,3 +1,4 @@
 *.meta
 /Test/
 .idea/
+.DS_Store
